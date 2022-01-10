@@ -1,1 +1,1 @@
-# rt_email_module
+Email Management System
